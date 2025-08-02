@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pdf-schema.xsd">
+  <font-registry>
+    <font id="font_001" name="Helvetica">
+      <metadata>
+        <original-name>Helvetica</original-name>
+        <is-embedded>true</is-embedded>
+        <font-type>Type1</font-type>
+        <encoding>StandardEncoding</encoding>
+        <characteristics>
+          <serif>false</serif>
+          <bold>false</bold>
+          <italic>false</italic>
+          <monospace>false</monospace>
+          <weight>400</weight>
+          <style>normal</style>
+        </characteristics>
+        <font-descriptor>
+          <ascent>718.0</ascent>
+          <descent>-207.0</descent>
+          <cap-height>718.0</cap-height>
+          <x-height>523.0</x-height>
+          <italic-angle>0.0</italic-angle>
+          <flags>32</flags>
+          <font-bbox>-166.0,-225.0,1000.0,931.0</font-bbox>
+        </font-descriptor>
+      </metadata>
+      <usage-info>
+        <glyph-count>10</glyph-count>
+        <character-set>aBrcdugkno</character-set>
+        <first-used-page>0</first-used-page>
+        <total-references>4</total-references>
+      </usage-info>
+    </font>
+  </font-registry>
+  <page index="0">
+    <text id="TEXT_000001">
+      <content>Background</content>
+      <position x="0.0" y="16.0" />
+      <font-size>12.0</font-size>
+      <font-ref>font_001</font-ref>
+      <transformation-matrix>
+        <scale>
+          <x>1.0</x>
+          <y>1.0</y>
+        </scale>
+        <rotation>
+          <vertical>0.0</vertical>
+          <horizontal>0.0</horizontal>
+        </rotation>
+        <translation>
+          <x>0.0</x>
+          <y>16.0</y>
+        </translation>
+      </transformation-matrix>
+    </text>
+    <image id="IMAGE_000001">
+      <position x="0.0" y="0.0" />
+      <size width="16.0" height="16.0" />
+      <image-data width="16" height="16" format="png">
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAKElEQVR4XmNgIAP8x2BgAgwpdAFCfBQAk0Sj/yM0/YcAOH8UjAIyAAChzRHvoGzRBAAAAABJRU5ErkJggg==
+      </image-data>
+      <transformation-matrix>
+        <scale>
+          <x>3.8399999141693115</x>
+          <y>3.8399999141693115</y>
+        </scale>
+        <rotation>
+          <vertical>0.0</vertical>
+          <horizontal>0.0</horizontal>
+        </rotation>
+        <translation>
+          <x>0.0</x>
+          <y>0.0</y>
+        </translation>
+      </transformation-matrix>
+    </image>
+  </page>
+  <page index="1">
+    <text id="TEXT_000002">
+      <content>Background</content>
+      <position x="0.0" y="16.0" />
+      <font-size>12.0</font-size>
+      <font-ref>font_001</font-ref>
+      <transformation-matrix>
+        <scale>
+          <x>1.0</x>
+          <y>1.0</y>
+        </scale>
+        <rotation>
+          <vertical>0.0</vertical>
+          <horizontal>0.0</horizontal>
+        </rotation>
+        <translation>
+          <x>0.0</x>
+          <y>16.0</y>
+        </translation>
+      </transformation-matrix>
+    </text>
+    <image id="IMAGE_000002">
+      <position x="0.0" y="0.0" />
+      <size width="16.0" height="16.0" />
+      <image-data width="16" height="16" format="png">
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAKElEQVR4XmNgIAP8x2BgAgwpdAFCfBQAk0Sj/yM0/YcAOH8UjAIyAAChzRHvoGzRBAAAAABJRU5ErkJggg==
+      </image-data>
+      <transformation-matrix>
+        <scale>
+          <x>3.8399999141693115</x>
+          <y>3.8399999141693115</y>
+        </scale>
+        <rotation>
+          <vertical>0.0</vertical>
+          <horizontal>0.0</horizontal>
+        </rotation>
+        <translation>
+          <x>0.0</x>
+          <y>0.0</y>
+        </translation>
+      </transformation-matrix>
+    </image>
+  </page>
+  <page index="2">
+    <text id="TEXT_000003">
+      <content>Background</content>
+      <position x="0.0" y="16.0" />
+      <font-size>12.0</font-size>
+      <font-ref>font_001</font-ref>
+      <transformation-matrix>
+        <scale>
+          <x>1.0</x>
+          <y>1.0</y>
+        </scale>
+        <rotation>
+          <vertical>0.0</vertical>
+          <horizontal>0.0</horizontal>
+        </rotation>
+        <translation>
+          <x>0.0</x>
+          <y>16.0</y>
+        </translation>
+      </transformation-matrix>
+    </text>
+    <image id="IMAGE_000003">
+      <position x="0.0" y="0.0" />
+      <size width="16.0" height="16.0" />
+      <image-data width="16" height="16" format="png">
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAKElEQVR4XmNgIAP8x2BgAgwpdAFCfBQAk0Sj/yM0/YcAOH8UjAIyAAChzRHvoGzRBAAAAABJRU5ErkJggg==
+      </image-data>
+      <transformation-matrix>
+        <scale>
+          <x>3.8399999141693115</x>
+          <y>3.8399999141693115</y>
+        </scale>
+        <rotation>
+          <vertical>0.0</vertical>
+          <horizontal>0.0</horizontal>
+        </rotation>
+        <translation>
+          <x>0.0</x>
+          <y>0.0</y>
+        </translation>
+      </transformation-matrix>
+    </image>
+  </page>
+  <page index="3">
+    <image id="IMAGE_000004">
+      <position x="0.0" y="0.0" />
+      <size width="16.0" height="16.0" />
+      <image-data width="16" height="16" format="png">
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAhUlEQVR4Xu1PURbDIAwiMdXt9f6H3XvbUqDtLcqHogJBIJCBHYgNRiTIYogXhm9fSK7UlTb0woJUjbBdUvqGHosJpJ8zbELCQVnPlDukHly+ytQkZyB+NmjObnafQqpOy7jzFLW1rfi3urlVn7hCS76lL73FWWxBVVyWwzBLweLpRg8eCAd5rRMMOeHcvQAAAABJRU5ErkJggg==
+      </image-data>
+      <transformation-matrix>
+        <scale>
+          <x>3.8399999141693115</x>
+          <y>3.8399999141693115</y>
+        </scale>
+        <rotation>
+          <vertical>0.0</vertical>
+          <horizontal>0.0</horizontal>
+        </rotation>
+        <translation>
+          <x>0.0</x>
+          <y>0.0</y>
+        </translation>
+      </transformation-matrix>
+    </image>
+  </page>
+  <page index="4">
+    <image id="IMAGE_000005">
+      <position x="0.0" y="0.0" />
+      <size width="16.0" height="16.0" />
+      <image-data width="16" height="16" format="png">
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAKElEQVR4XmNgIAP8x2BgAgwpdAFCfBQAk0Sj/yM0/YcAOH8UjAIyAAChzRHvoGzRBAAAAABJRU5ErkJggg==
+      </image-data>
+      <transformation-matrix>
+        <scale>
+          <x>3.8399999141693115</x>
+          <y>3.8399999141693115</y>
+        </scale>
+        <rotation>
+          <vertical>0.0</vertical>
+          <horizontal>0.0</horizontal>
+        </rotation>
+        <translation>
+          <x>0.0</x>
+          <y>0.0</y>
+        </translation>
+      </transformation-matrix>
+    </image>
+  </page>
+  <page index="5">
+    <text id="TEXT_000004">
+      <content>Background</content>
+      <position x="0.0" y="16.0" />
+      <font-size>12.0</font-size>
+      <font-ref>font_001</font-ref>
+      <transformation-matrix>
+        <scale>
+          <x>1.0</x>
+          <y>1.0</y>
+        </scale>
+        <rotation>
+          <vertical>0.0</vertical>
+          <horizontal>0.0</horizontal>
+        </rotation>
+        <translation>
+          <x>0.0</x>
+          <y>16.0</y>
+        </translation>
+      </transformation-matrix>
+    </text>
+    <image id="IMAGE_000006">
+      <position x="0.0" y="0.0" />
+      <size width="16.0" height="16.0" />
+      <image-data width="16" height="16" format="png">
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAKElEQVR4XmNgIAP8x2BgAgwpdAFCfBQAk0Sj/yM0/YcAOH8UjAIyAAChzRHvoGzRBAAAAABJRU5ErkJggg==
+      </image-data>
+      <transformation-matrix>
+        <scale>
+          <x>3.8399999141693115</x>
+          <y>3.8399999141693115</y>
+        </scale>
+        <rotation>
+          <vertical>0.0</vertical>
+          <horizontal>0.0</horizontal>
+        </rotation>
+        <translation>
+          <x>0.0</x>
+          <y>0.0</y>
+        </translation>
+      </transformation-matrix>
+    </image>
+  </page>
+</pdf>
